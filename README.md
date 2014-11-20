@@ -7,10 +7,10 @@ Things
 
 | Spalte 1 | Spalte 2 | Spalte 3 |
 
-|:--------|:--------:| --------:|
+|:---------|:--------:| --------:|
 
-| Links | Mitte | Rechts |
+| Links    | Mitte    | Rechts   |
 
-| l | m | r |
+| l        | m        | r        |
 
 *kursiv* **fett**
